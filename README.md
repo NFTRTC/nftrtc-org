@@ -18,3 +18,10 @@ We aim to create a RTC infrastructure stack to improve digital inclusion and equ
 ### Support or Contact
 
 Having trouble with NFTRTC? Check out our [repositories](https://github.com/NFTRTC/) or [start a conversation](https://groups.google.com/g/nftrtc) and we’ll help you sort it out.
+
+
+*Twitter: [@NFTRTC](https://twitter.com/nftrtc)
+*Discord: [discord.gg/N5EgRUxutz](https://discord.gg/N5EgRUxutz)
+*Github: [NFTRTC](https://github.com/NFTRTC)
+*Google groups: [NFTRTC](https://groups.google.com/g/nftrtc), [nftrtc@googlegroups.com](mailto:nftrtc@gmail.com)
+*Email: [nftrtc@gmail.com](mailto:nftrtc@gmail.com)
